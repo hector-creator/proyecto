@@ -1,0 +1,74 @@
+#lluvia,#imper,#impermeable{
+  height: 500px;
+}
+
+.imper-contimex{
+  height: 500px;
+}
+.color-cuerpo3{
+  background-color:#0d5957;
+  color: white;
+}
+.ti-tle3{
+  font-weight: bolder;
+}
+
+.color-cuerpo4{
+  background-color:#0d5957;
+  color: white;
+}
+.ti-tle4{
+  font-weight: bolder;
+}
+
+.card-flip > div {
+  backface-visibility: hidden;
+  transition: transform 400ms;
+  transition-timing-function: linear;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+}
+
+.card-front {
+  transform: rotateY(0deg);
+}
+
+.card-back {
+  transform: rotateY(150deg);
+  position: absolute;
+  top: 0;
+}
+
+.card-flip:hover .card-front {
+  transform: rotateY(-180deg);
+}
+
+.card-flip:hover .card-back {
+  transform: rotateY(0deg);
+  color:#fff;
+}
+
+.fondo{
+  background:#c71eae;
+}
+
+.impermeabilizante2{
+  background: #0d5957;
+  color:white;
+}
+
+
+.protect:hover {
+  opacity: 0.8;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.imperme:hover {
+  opacity: 0.8;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}

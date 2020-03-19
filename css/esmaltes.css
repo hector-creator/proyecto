@@ -1,0 +1,188 @@
+
+.esmalte{
+  width: auto;
+  height: 500px;
+}
+.esm{
+  text-align:center;
+}
+.esm2{
+  text-align: center;
+}
+.cocina_esmalte{
+  height: 448px;
+}
+.eac{
+  color: #ffffff;
+}
+/*******************************************************/
+.te_1{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_1:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.goya{
+  background:#000000;
+  color: #ffffff;
+
+}
+
+
+.te_2{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_2:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.contilux{
+  background:#000000;
+  color: #ffffff;
+
+}
+
+
+
+.te_3{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_3:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.gigante2{
+  background:#000000;
+  color: #ffffff;
+
+}
+
+.te_4{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_4:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.econoesmalte{
+  background:#000000;
+  color: #ffffff;
+
+}
+
+.te_5{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_5:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.barniz63{
+  background:#000000;
+  color: #ffffff;
+
+}
+
+.te_6{
+  -webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.te_6:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+}
+.spraymex{
+  background:#000000;
+  color: #ffffff;
+}
+.color-cuerpo{
+  background-color:#f76425;
+  color: #000000;
+}
+.ti-tle{
+  font-weight:bolder;
+}
+
+.color-cuerpo2{
+  background-color:#7cf734;
+  color: #000000;
+}
+.ti-tle2{
+  font-weight:bolder;
+}
+
+.banca{
+  height: 300px;
+}
+
+.card-flip > div {
+  backface-visibility: hidden;
+  transition: transform 400ms;
+  transition-timing-function: linear;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+}
+
+.card-front {
+  transform: rotateY(0deg);
+}
+
+.card-back {
+  transform: rotateY(150deg);
+  position: absolute;
+  top: 0;
+
+}
+
+.card-flip:hover .card-front {
+  transform: rotateY(-180deg);
+}
+
+.card-flip:hover .card-back {
+  transform: rotateY(0deg);
+  color:#fff;
+}
+
+.fondo{
+  background:#0d5957;
+}
+
+.esmalte{
+  background:#e67d05;
+  color:white;
+}
+
+
+.img_1:hover {
+  opacity: 0.8;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.img_2:hover {
+  opacity: 0.8;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+
+}
